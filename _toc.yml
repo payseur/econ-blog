@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-  - file: content/notebooks_test
-  - file: content/notebooks_test2
+  - file: content/test/notebooks_test
+  - file: content/test/notebooks_test2
   - file: content/template_test
