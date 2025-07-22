@@ -7,7 +7,7 @@ parts:
   - caption: Name of Numbered Part 1
     numbered: True  # Only applies to chapters in Part 1.
     chapters:
-    - file: content/test/notebooks_test2
+    - file: content/test/notebooks_test
     - file: content/test/notebooks_test2
   - caption: Name of Not-numbered Part 2
     chapters:
