@@ -5,7 +5,6 @@ format: jb-book
 root: intro
 parts:
   - caption: Resources
-    numbered: True  # Only applies to chapters in Part 1.
     chapters:
     - file: content/data_sources
     - file: content/test/notebooks_test
