@@ -4,9 +4,10 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Name of Numbered Part 1
+  - caption: Resources
     numbered: True  # Only applies to chapters in Part 1.
     chapters:
+    - file: content/data_sources
     - file: content/test/notebooks_test
     - file: content/test/notebooks_test2
   - caption: Name of Not-numbered Part 2
