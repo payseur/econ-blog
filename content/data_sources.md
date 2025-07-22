@@ -5,24 +5,23 @@
 
 ## Macro Economics
 
-[Inflation](#inflation) | [Yields](#yields) | [Housing](#housing)
+[Inflation](#inflation) | [GDP](#gdp) | [Housing](#housing)
 
 
 ### Inflation
 
 | Name      | Link         | Description                       |
 |------------|:------------:|-----------------------------------|
-| Zillow Housing Data | [Zillow](https://www.zillow.com/research/data/) | Sales, ZHVI, Forecasts, etc      | 
-| Redfin Data Center | [Redfin](https://www.redfin.com/news/data-center/) | Sales, Active Listings, etc  |
+| Cleveland Nowcast | [Cleveland Fed](https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting) | Nowcast      | 
 
 
-
-### Yields
-
+### GDP
 | Name      | Link         | Description                       |
 |------------|:------------:|-----------------------------------|
-| Zillow Housing Data | [Zillow](https://www.zillow.com/research/data/) | Sales, ZHVI, Forecasts, etc      | 
-| Redfin Data Center | [Redfin](https://www.redfin.com/news/data-center/) | Sales, Active Listings, etc  |
+| Atlanta Nowcast | [GDPNow](https://www.atlantafed.org/cqer/research/gdpnow) | Nowcast      | 
+| NY Nowcast | [NY Federal Reserve](https://www.newyorkfed.org/research/policy/nowcast/#nowcast) | Nowcast  |
+
+
 
 
 ### Housing 
@@ -32,3 +31,15 @@
 | Zillow Housing Data | [Zillow](https://www.zillow.com/research/data/) | Sales, ZHVI, Forecasts, etc      | 
 | Redfin Data Center | [Redfin](https://www.redfin.com/news/data-center/) | Sales, Active Listings, etc  |
 ---
+
+## Capital Markets
+
+[Yields](#yields)
+
+
+### Yields
+
+| Name      | Link         | Description                       |
+|------------|:------------:|-----------------------------------|
+| Zillow Housing Data | [Zillow](https://www.zillow.com/research/data/) | Sales, ZHVI, Forecasts, etc      | 
+| Redfin Data Center | [Redfin](https://www.redfin.com/news/data-center/) | Sales, Active Listings, etc  |
