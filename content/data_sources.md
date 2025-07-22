@@ -1,12 +1,22 @@
 # Macro Insights
 
 ## Table of Contents
+- [TEST](#recent-reports)
 - [US Yield Curve](#us-yield-curve)
 - [Inflation Trends](#inflation-trends)
 - [Employment Data](#employment-data)
 - [Consumer Confidence](#consumer-confidence)
 
 ---
+
+## Recent Reports
+
+| Date       | Report Name         | Source Link                       |
+|------------|---------------------|-----------------------------------|
+| 2025-07-22 | US CPI Summary      | [BLS.gov](https://www.bls.gov/cpi/) |
+| 2025-07-19 | FOMC Minutes        | [Fed.gov](https://www.federalreserve.gov/monetarypolicy/fomc.htm) |
+| 2025-07-10 | Jobs Report         | [BLS Jobs](https://www.bls.gov/news.release/empsit.nr0.htm) |
+
 
 ## US Yield Curve
 
