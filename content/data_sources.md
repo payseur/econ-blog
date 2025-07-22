@@ -1,15 +1,20 @@
 # Data Sources
 
 ## Table of Contents
-- [TEST](#recent-reports)
+- [Macro Economics](#macro-economics)
 - [US Yield Curve](#us-yield-curve)
 - [Inflation Trends](#inflation-trends)
 - [Employment Data](#employment-data)
 - [Consumer Confidence](#consumer-confidence)
+--
 
----
+## Macro Economics
 
-## Recent Reports
+- [Inflation](#inflation)
+- [Yields](#yields)
+
+
+### Inflation
 
 | Date       | Report Name         | Source Link                       |
 |------------|---------------------|-----------------------------------|
@@ -18,7 +23,7 @@
 | 2025-07-10 | Jobs Report         | [BLS Jobs](https://www.bls.gov/news.release/empsit.nr0.htm) |
 
 
-## US Yield Curve
+### Yields
 
 | Maturity | Rate (%) |
 |----------|----------|
