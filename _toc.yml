@@ -4,11 +4,11 @@
 format: jb-book
 root: intro
 parts:
+  - caption: Thoughts
+    chapters:
+    - file: content/template_test
+    - file: content/macro/notebooks_test
+    - file: content/macro/notebooks_test2
   - caption: Resources
     chapters:
     - file: content/data_sources
-    - file: content/test/notebooks_test
-    - file: content/test/notebooks_test2
-  - caption: Name of Not-numbered Part 2
-    chapters:
-    - file: content/template_test

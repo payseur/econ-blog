@@ -30,6 +30,9 @@
 |------------|:------------:|-----------------------------------|
 | Zillow Housing Data | [Zillow](https://www.zillow.com/research/data/) | Sales, ZHVI, Forecasts, etc      | 
 | Redfin Data Center | [Redfin](https://www.redfin.com/news/data-center/) | Sales, Active Listings, etc  |
+| CFPB Mortgages   | [cfpb](https://www.consumerfinance.gov/data-research/consumer-credit-trends/mortgages/) | Origination, Risk Profiles, Demographics |
+| Household Credit | [NY Federal Reserve](https://www.newyorkfed.org/microeconomics/hhdc/background.html) | Originations by credit score, household mix of debt |
+
 ---
 
 ## Capital Markets
