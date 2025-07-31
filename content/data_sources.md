@@ -46,3 +46,18 @@
 |------------|:------------:|-----------------------------------|
 | Zillow Housing Data | [Zillow](https://www.zillow.com/research/data/) | Sales, ZHVI, Forecasts, etc      | 
 | Redfin Data Center | [Redfin](https://www.redfin.com/news/data-center/) | Sales, Active Listings, etc  |
+
+### Margin
+
+| Name      | Link         | Description                       |
+|------------|:------------:|-----------------------------------|
+| Finra Margin Statistics | [Finra](https://www.finra.org/rules-guidance/key-topics/margin-accounts/margin-statistics) | Margin balances, etc    | 
+
+
+### RIA Information
+
+| Name      | Link         | Description                       |
+|------------|:------------:|-----------------------------------|
+| Investment Advisor Data | [Investment Advisor](https://www.investmentadviser.org/industry-snapshots/) | Size of market, etc    | 
+
+
